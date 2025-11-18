@@ -1,0 +1,7 @@
+{
+  "name": "AI Math Solver",
+  "description": "An advanced AI tool that solves complex math problems step-by-step. Upload a photo to get instant solutions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
